@@ -80,7 +80,14 @@ Data Analyst • Business Intelligence Professional • Data Engineering Enthusi
 </p>
 
 ---
+## 💼 Roles of Interest
 
+- 📊 Data Engineer
+- ☁️ Azure Data Engineer
+- ⚙️ Analytics Engineer
+- 🌐 Cloud Data Engineer
+- 🏗️ Data Platform Engineer
+- 📈 Data Analytics Engineer
 ## 🚀 Featured Projects
 
 | Project | Description |
