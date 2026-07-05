@@ -94,6 +94,7 @@ Data Analyst • Business Intelligence Professional • Data Engineering Enthusi
 |---------|-------------|
 | 📊 **Loan Portfolio Analytics Dashboard** | Interactive Power BI dashboard with SQL Server, DAX, KPI tracking, Star Schema, and business insights. |
 | ☁️ **Spotify Azure Data Engineering** | End-to-end Azure data pipeline using Azure Data Factory, Azure Data Lake, Databricks, PySpark, and Synapse Analytics. |
+| 🛍️ **ShoppingMart End-to-End Analytics (Microsoft Fabric)** | End-to-end analytics solution built with Microsoft Fabric using Lakehouse, OneLake, Data Pipelines, PySpark, Medallion Architecture, and Power BI dashboards. |
 | 🧹 **SQL Layoffs Data Cleaning** | Cleaned and transformed real-world layoff data using SQL, CTEs, window functions, and data quality techniques. |
 
 ➡️ **Explore all projects:**  
