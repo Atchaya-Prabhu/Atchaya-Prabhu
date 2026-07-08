@@ -112,12 +112,15 @@ Data Analyst • Business Intelligence Professional • Data Engineering Enthusi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atchaya-Prabhu&theme=tokyonight" />
 </p>
 
-## 🔥 GitHub Streak
+## 🚀 GitHub Highlights
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atchaya-Prabhu&theme=tokyonight&hide_border=true" />
-</p>
----
+- 📂 4+ End-to-End Data Engineering & Analytics Projects
+- ☁️ Azure • Microsoft Fabric • Snowflake • Databricks
+- 📊 Power BI • SQL • Python • ETL/ELT • Data Warehousing
+- 🏗️ Medallion Architecture • CI/CD • Data Modeling
+- 🌱 Continuously learning and building cloud-based data solutions
+
+--
 
 ## 📚 Currently Learning
 
