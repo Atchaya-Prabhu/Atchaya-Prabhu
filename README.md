@@ -109,23 +109,14 @@ Data Analyst • Business Intelligence Professional • Data Engineering Enthusi
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Atchaya-Prabhu&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atchaya-Prabhu&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atchaya-Prabhu&theme=tokyonight" />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Atchaya-Prabhu&theme=tokyonight"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atchaya-Prabhu&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 📚 Currently Learning
